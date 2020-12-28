@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "pilha.h"
+#include "Pilha.h"
 
 void imprime(Pilha *p){
     int i;
